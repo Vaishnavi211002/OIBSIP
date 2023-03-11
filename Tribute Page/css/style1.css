@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Shantell+Sans:ital,wght@1,600&family=Tilt+Neon&display=swap');
+
+
+
+.container{
+    border: solid white;
+    height: 100%;
+    width: 100%;
+   
+}
+
+.imgs{
+    border:solid white;
+    position: absolute;
+    left:70%;
+    top: 150px;
+    background-image: url('./dr-kalam1.png');
+    height: 500px;
+    width: 450px;
+    background-repeat: no-repeat;
+}
+
+.para{
+    border: solid white;
+    height: 89%;
+    width: 65%;
+    font-size: 18px;
+    font-family: 'Shantell Sans', cursive;
+    background-color: rgba(248, 173, 102, 0.94);
+}
+
+.heading{
+    border: solid white;
+    height: 10%;
+    font-size: 45px;
+    font-family: 'Tilt Neon', cursive;;
+}

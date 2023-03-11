@@ -1,0 +1,18 @@
+.bg{
+    background-repeat: no-repeat;
+    height: 100%;
+   
+}
+
+.heading{
+    font-family:cursive;
+    font-size: 40px;
+    color: rgb(199, 26, 226);
+    padding-top: 10px;
+}
+
+.para{
+    width: 1200px;
+   font-size: 24px;
+}
+
